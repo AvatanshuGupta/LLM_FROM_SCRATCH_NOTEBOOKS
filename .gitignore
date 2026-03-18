@@ -2,3 +2,5 @@ llmenv/
 saved_model/
 Data/
 gpt2/
+sms_spam_collection/
+ftData/
