@@ -5,3 +5,4 @@ gpt2/
 sms_spam_collection/
 ftData/
 spam-classifier-model/
+instruction-fine-tuned-model
